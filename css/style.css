@@ -46,3 +46,57 @@ justify-content: flex-end;
     color: #758BFD;
 }
 /*დამთავრდა HEADER */
+
+/*დაიწყო SECTION*/
+section{
+width: 90%;
+
+margin: 95px auto 135px auto;
+
+
+
+}
+.companynews{
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+color: #27187F;
+margin-bottom: 68px;
+}
+.div_imgs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 51px;
+    width: 100%
+    
+    
+}
+.div_img{
+width: 30%;
+height: 333px;
+background: #FFFFFF;
+border-radius: 10px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+
+
+}
+.div_img1{
+    width: 90%;
+    height: 188px;
+}
+.img_text{
+width: 90%;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #133B3A;
+}
+/*დამთავრდა SECTION*/
