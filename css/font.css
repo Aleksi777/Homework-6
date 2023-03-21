@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../font/Ubuntu-Bold.eot');
+    src: url('../font/Ubuntu-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Ubuntu-Bold.woff2') format('woff2'),
+        url('../font/Ubuntu-Bold.woff') format('woff'),
+        url('../font/Ubuntu-Bold.ttf') format('truetype'),
+        url('../font/Ubuntu-Bold.svg#Ubuntu-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../font/CenturyGothic.eot');
+    src: url('../font/CenturyGothic.eot?#iefix') format('embedded-opentype'),
+        url('../font/CenturyGothic.woff2') format('woff2'),
+        url('../font/CenturyGothic.woff') format('woff'),
+        url('../font/CenturyGothic.ttf') format('truetype'),
+        url('../font/CenturyGothic.svg#CenturyGothic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
